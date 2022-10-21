@@ -235,7 +235,6 @@
 				<Item Name="Wait_Touch.vi" Type="VI" URL="/&lt;vilib&gt;/NXT/Dual Mode Library/Waits/Wait_Touch.vi"/>
 				<Item Name="Wait_Touch_Count.vi" Type="VI" URL="/&lt;vilib&gt;/NXT/Dual Mode Library/Waits/Wait_Touch_Count.vi"/>
 			</Item>
-			<Item Name="Close Collector_Raise D arm.vi" Type="VI" URL="../Close Collector_Raise D arm.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
